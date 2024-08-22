@@ -1,4 +1,5 @@
 pypdf
 langchain
-chromadb # Vector storage
+chromadb==0.3.29
 pytest
+langchain-community
